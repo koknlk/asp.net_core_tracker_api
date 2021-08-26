@@ -1,0 +1,12 @@
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\bin\Debug\Tracker.Domain.dll.config
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\bin\Debug\Tracker.Domain.dll
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\bin\Debug\Tracker.Domain.pdb
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\bin\Debug\EntityFramework.dll
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\bin\Debug\EntityFramework.xml
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\obj\Debug\Tracker.Domain.csprojAssemblyReference.cache
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\obj\Debug\Tracker.Domain.csproj.CoreCompileInputs.cache
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\obj\Debug\Tracker.Domain.csproj.CopyComplete
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\obj\Debug\Tracker.Domain.dll
+D:\kokiSff\IT\Projects\Git\package_tracker\Track_packages\Tracker.Domain\obj\Debug\Tracker.Domain.pdb
